@@ -1,4 +1,4 @@
-module gopportunities
+module github.com/marlleyck/gopportunities
 
 go 1.22.4
 
